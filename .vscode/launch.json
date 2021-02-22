@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "al",
+        "request": "launch",
+        "name": "Publish",
+        "server": "http://10.102.98.166:17069",
+        "port": 17069,
+        "serverInstance": "ETNETBC17",
+        "authentication": "Windows",
+        //"schemaUpdateMode": "ForceSync"
+      }
+    ]
+  }
+  

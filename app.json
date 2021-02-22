@@ -1,0 +1,25 @@
+{
+  "id": "2a7703e5-2a56-4269-a2a3-575333053986",
+  "name": "ETNET",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "runtime": "6.0",
+  "showMyCode": true,
+  "target": "OnPrem",
+  "platform": "17.0.16974.0",
+  "contextSensitiveHelpUrl": "https://ETNET.com/help/",
+  "dependencies": [
+    {
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "version": "17.0.0.0",
+      "publisher": "Microsoft"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50999
+    }
+  ]
+}
